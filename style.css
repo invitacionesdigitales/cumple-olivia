@@ -32,7 +32,7 @@ margin-top: -1%;
   }
   
   img {
-    width: 70%;
+    width: 75%;
     margin-left: 15%;
     box-shadow: 0px 3px 5px rgba(rgb(218, 208, 208), rgb(38, 39, 38), brgb(65, 65, 66) alpha);
   }
@@ -154,7 +154,7 @@ margin-top: -1%;
   
   /*SECCION*/
   .info{
-    margin-top: -20%;
+    margin-top: -18%;
   }
   .info h4 {
     text-align: center;
